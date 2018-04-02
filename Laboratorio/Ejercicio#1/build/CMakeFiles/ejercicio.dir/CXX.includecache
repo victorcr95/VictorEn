@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/victor/Tarea/Laboratorio/Ejercicio#1/arco.cpp
+GL/gl.h
+-
+GL/glut.h
+-
+math.h
+-
+stdio.h
+-
+

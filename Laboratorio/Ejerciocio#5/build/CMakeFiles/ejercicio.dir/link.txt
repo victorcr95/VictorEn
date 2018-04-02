@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/ejercicio.dir/marco3D.cpp.o  -o ejercicio -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

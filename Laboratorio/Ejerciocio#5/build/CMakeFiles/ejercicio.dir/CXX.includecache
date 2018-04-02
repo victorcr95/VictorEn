@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/victor/Tarea/Laboratorio/Ejerciocio#5/marco3D.cpp
+stdio.h
+-
+GL/gl.h
+-
+GL/glut.h
+-
+math.h
+-
+

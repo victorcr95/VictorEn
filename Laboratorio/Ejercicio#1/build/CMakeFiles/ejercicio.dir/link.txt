@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/ejercicio.dir/arco.cpp.o  -o ejercicio -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

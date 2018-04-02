@@ -1,0 +1,3 @@
+/home/victor/Tarea/Laboratorio/Ejercicio#2/build/CMakeFiles/rebuild_cache.dir
+/home/victor/Tarea/Laboratorio/Ejercicio#2/build/CMakeFiles/edit_cache.dir
+/home/victor/Tarea/Laboratorio/Ejercicio#2/build/CMakeFiles/ejercicio.dir

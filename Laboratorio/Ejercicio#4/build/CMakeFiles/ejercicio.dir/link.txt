@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/ejercicio.dir/chorro.cpp.o  -o ejercicio -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

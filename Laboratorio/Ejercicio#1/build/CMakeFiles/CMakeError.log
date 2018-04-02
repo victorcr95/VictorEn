@@ -1,0 +1,26 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /home/victor/Tarea/Laboratorio/Ejercicio#1/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1a948/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1a948.dir/build.make CMakeFiles/cmTC_1a948.dir/build
+make[1]: se entra en el directorio '/home/victor/Tarea/Laboratorio/Ejercicio#1/build/CMakeFiles/CMakeTmp'
+make[1]: *** No hay ninguna regla para construir el objetivo '/home/victor/Tarea/Laboratorio/Ejercicio', necesario para 'CMakeFiles/cmTC_1a948.dir/feature_tests.c.o'.  Alto.
+make[1]: se sale del directorio '/home/victor/Tarea/Laboratorio/Ejercicio#1/build/CMakeFiles/CMakeTmp'
+Makefile:126: fallo en las instrucciones para el objetivo 'cmTC_1a948/fast'
+make: *** [cmTC_1a948/fast] Error 2
+
+
+
+Detecting CXX [-std=c++14] compiler features failed to compile with the following output:
+Change Dir: /home/victor/Tarea/Laboratorio/Ejercicio#1/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_fb217/fast"
+/usr/bin/make -f CMakeFiles/cmTC_fb217.dir/build.make CMakeFiles/cmTC_fb217.dir/build
+make[1]: se entra en el directorio '/home/victor/Tarea/Laboratorio/Ejercicio#1/build/CMakeFiles/CMakeTmp'
+make[1]: *** No hay ninguna regla para construir el objetivo '/home/victor/Tarea/Laboratorio/Ejercicio', necesario para 'CMakeFiles/cmTC_fb217.dir/feature_tests.cxx.o'.  Alto.
+make[1]: se sale del directorio '/home/victor/Tarea/Laboratorio/Ejercicio#1/build/CMakeFiles/CMakeTmp'
+Makefile:126: fallo en las instrucciones para el objetivo 'cmTC_fb217/fast'
+make: *** [cmTC_fb217/fast] Error 2
+
+
+
